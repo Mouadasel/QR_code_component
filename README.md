@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -33,8 +32,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Mouadasel/QR_code_component](https://github.com/Mouadasel/QR_code_component)
+- Live Site URL: [https://mouadasel.github.io/QR_code_component/](https://mouadasel.github.io/QR_code_component/)
 
 ## My process
 
@@ -81,16 +80,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Mouad ASSEL](https://mouadasel.github.io/QR_code_component/)
 - Frontend Mentor - [@Mouadasel]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/Mouadasel))
 - Linkedin - [Mouad Assel](www.linkedin.com/in/mouad-assel)
 
