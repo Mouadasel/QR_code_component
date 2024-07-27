@@ -83,7 +83,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Mouad ASSEL](https://mouadasel.github.io/QR_code_component/)
-- Frontend Mentor - [@Mouadasel]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/Mouadasel))
+- Frontend Mentor - [@Mouadasel](https://www.frontendmentor.io/profile/Mouadasel))
 - Linkedin - [Mouad Assel](www.linkedin.com/in/mouad-assel)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
